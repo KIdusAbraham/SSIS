@@ -1,0 +1,5 @@
+Read data from flat files and SCD type 2
+
+    file types for flat file include CSV, TSV, 
+    In the CSV file, we add " " to incompase columns to avoid the confusion in case a single column. In is called text qulifier. 
+      we can use different types of text qualifier that can be specified in your SSIS package. 
